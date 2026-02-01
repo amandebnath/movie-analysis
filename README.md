@@ -1,5 +1,5 @@
 
-# Movie Dataset Exploratory Data Analysis (EDA) with Python
+# Movie Dataset Exploratory Data Analysis (EDA) with Python :chart_with_upwards_trend: :bar_chart:
 
 This project performs a step-by-step Exploratory Data Analysis (EDA) on a real-world movie dataset using Python. The analysis covers data exploration, cleaning, and visualization to uncover patterns in genres, ratings, and box office trends.
 
@@ -27,7 +27,7 @@ A quick overview of the dataset on Kaggle, detailing the columns such as movie I
 * Retrieving row and column counts using .shape
 * Accessing column-wise data types (.dtypes)
 
-### 2. Descriptive Statistics
+### 2. Descriptive Statistics 
 
 * Generating descriptive statistics for numerical columns using .describe()
 * Focusing on IMDb rating and Rotten Tomatoes score for average and standard deviation
@@ -37,7 +37,7 @@ A quick overview of the dataset on Kaggle, detailing the columns such as movie I
 * Checking for missing values using .isna().sum()
 * Checking for duplicated rows using .duplicated().sum()
 
-### 4. Histograms for Numerical Distributions
+### 4. Histograms for Numerical Distributions 
 
 * Identifying numerical columns for plotting
 * Generating histograms using seaborn.histplot to visualize distributions of budget, box office, IMDb rating, and Rotten Tomatoes score
