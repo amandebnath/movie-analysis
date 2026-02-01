@@ -68,10 +68,6 @@ A quick overview of the dataset on Kaggle, detailing the columns such as movie I
 
 ## Screenshots
 
-![Average Global Genres](https://github.com/amandebnath/movie-analysis/blob/main/Screenshots/avg_global_genres.png)
-
-![Genre Counts](https://github.com/amandebnath/movie-analysis/blob/main/Screenshots/genre_counts.png)
-
-![IMDb Ratings](https://github.com/amandebnath/movie-analysis/blob/main/Screenshots/imdb_ratings.png)
-
-![IMDb Ratings](https://github.com/amandebnath/movie-analysis/blob/main/Screenshots/imdb_ratings.png)
+| Average Global Genres | Genre Counts | IMDb Ratings |
+| :---: | :---: | :---: |
+| <img src="https://github.com/amandebnath/movie-analysis/blob/main/Screenshots/avg_global_genres.png" alt="avg_global_genres" width="200" height="200"> | <img src="https://github.com/amandebnath/movie-analysis/blob/main/Screenshots/genre_counts.png" alt="genres_counts" width="200" height="200"> | <img src="https://github.com/amandebnath/movie-analysis/blob/main/Screenshots/imdb_ratings.png" alt="imdb_ratings" width="200" height="200"> |
