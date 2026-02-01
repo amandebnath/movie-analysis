@@ -1,5 +1,5 @@
-
-# Movie Dataset Exploratory Data Analysis (EDA) with Python :chart_with_upwards_trend: :bar_chart:
+# Project: Global Cinema Trends & Box Office Performance
+## Movie Dataset Exploratory Data Analysis (EDA) with Python :chart_with_upwards_trend: :bar_chart:
 
 This project performs a step-by-step Exploratory Data Analysis (EDA) on a real-world movie dataset using Python. The analysis covers data exploration, cleaning, and visualization to uncover patterns in genres, ratings, and box office trends.
 
